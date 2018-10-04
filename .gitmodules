@@ -4,3 +4,6 @@
 [submodule "ktx2-specification"]
 	path = ktx2-specification
 	url = https://github.com/KhronosGroup/KTX-Specification.git
+[submodule "zstd"]
+	path = zstd
+	url = https://github.com/facebook/zstd.git
