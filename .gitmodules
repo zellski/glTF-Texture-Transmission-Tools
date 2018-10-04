@@ -1,3 +1,6 @@
 [submodule "unity-etc1s-crn"]
 	path = unity-etc1s-crn
 	url = https://github.com/Unity-Technologies/crunch.git
+[submodule "ktx2-specification"]
+	path = ktx2-specification
+	url = https://github.com/KhronosGroup/KTX-Specification.git
