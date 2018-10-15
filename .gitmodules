@@ -7,3 +7,6 @@
 [submodule "experimental/crunch-wip"]
 	path = experimental/crunch-wip
 	url = https://github.com/richgel999/crunch-1.git
+[submodule "ktx-software"]
+	path = ktx-software
+	url = https://github.com/KhronosGroup/KTX-Software.git
