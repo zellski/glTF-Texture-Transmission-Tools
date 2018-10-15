@@ -1,15 +1,9 @@
-[submodule "unity-etc1s-crn"]
-	path = unity-etc1s-crn
-	url = https://github.com/Unity-Technologies/crunch.git
 [submodule "ktx2-specification"]
 	path = ktx2-specification
 	url = https://github.com/KhronosGroup/KTX-Specification.git
 [submodule "zstd"]
 	path = zstd
 	url = https://github.com/facebook/zstd.git
-[submodule "experimentalcrunch-wip"]
-	path = experimentalcrunch-wip
-	url = https://github.com/richgel999/crunch-1.git
 [submodule "experimental/crunch-wip"]
 	path = experimental/crunch-wip
 	url = https://github.com/richgel999/crunch-1.git
